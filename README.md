@@ -25,4 +25,4 @@ If the cell doesn't get the color it should, you either mistyped or that item is
 - [x] Typo in "Xingqiu"
 - [x] Option to type 3, 4 or 5 in the cell instead of full name
 
-*__Notice:__ This spreadsheet is fan made and is not affiliated with Genshin Impact or Mihoyo in any way.*
+*__Notice:__ This spreadsheet is fan made and is not affiliated with Genshin Impact or miHoYo in any way.*
