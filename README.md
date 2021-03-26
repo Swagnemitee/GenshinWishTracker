@@ -21,7 +21,7 @@ The only sheet you need to edit is `Pulls`. Simply type the name of your pull in
 
 If the cell doesn't get the color it should, you either mistyped or that item is new. You have to add the weapons and characters that'll come in the future yourself. That's really simple too! There is a sheet called `Rarity`, simply write the name of the weapon or character under the corresponding rarity.
 
-## Changes done based on feedback from reddit:
+## Changes done based on feedback from Reddit:
 - [x] Typo in "Xingqiu"
 - [x] Option to type 3, 4 or 5 in the cell instead of full name
 
