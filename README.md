@@ -1,7 +1,7 @@
 # Genshin Wish Tracker
 
 > ### **If you are an employer:**
-> Genshin Impact is a game that includes heavy elements of luck. Players' past luck determines their future luck because there are pity systems. **The goal of this project is to have a simple, fast and beautiful way of tracking past luck.** It started as a simple notepad and then I added coloring to make it clear where I got lucky. I then added some scripts to calculate how far I am from the pity, how much game currency I need to reach there and how lucky I was overall.  
+> Genshin Impact is a video game that includes heavy elements of luck. Players' past luck determines their future luck because there are pity systems. **The goal of this project is to have a simple, fast and beautiful way of tracking past luck.** It started as a simple notepad and then I added coloring to make it clear where I got lucky. I then added some scripts to calculate how far I am from the pity, how much game currency I need to reach there and how lucky I was overall.  
 > Only relevant part is [Code.gs](Code.gs) which includes all the functions and algorithms. They are all documented clearly.
 
 With the recent changes to banner history (now you can only see wishes from the past 6 months), I decided to keep track of my own wishes like many other people. I also added a few helpful things while at it, such as **pulls left for pity** and **average pulls you did to get 4 and 5 stars**. You can use them to compare your luck to your friends' or just plan ahead.
